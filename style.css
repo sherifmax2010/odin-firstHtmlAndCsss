@@ -74,7 +74,57 @@ h5 {
     width: 90%;
     margin-top: 5%;
 }
-
+.secondSection h1 {
+    text-align: center;
+    font-size: 36px;
+    color: #1F2937;
+    font-weight: 900;
+    margin-top: 5%;
+}
+.secondSection1 {
+    width: 100;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    padding: 10px 0;
+}
+.secondSection1 p{
+    text-align: center;
+}
+.thirdSection{
+    background-color: #E5E7EB;
+    padding: 15% 10%;
+}
+.thirdSection p {
+    font-size: 36px;
+    color: #1f2937;
+    font-weight: 300;
+}
+.thirdSection h6{
+    text-align: end;
+    font-size: 36px;
+}
+.forthSection {
+    background-color: #3882F6;
+    margin: 10% 5%;
+    padding: 5%;
+    display: flex;
+    justify-content: space-between;
+}
+.forthSection button{
+    background-color: #3882F6;
+    border-radius: 20%;
+    color: #e5e7eb;
+    border-color: #F9FAf8;
+    padding: 0.5% 1%;
+}
+.fifthSection{
+    background-color: #3882F6;
+}
+.fifthSection p {
+    text-align: center;
+    padding: 4% 2%;
+}
 
 
 
